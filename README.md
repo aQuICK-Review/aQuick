@@ -1,6 +1,8 @@
 # aQuICK [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://www.paypal.me/HaoZeke/)
 
-This is a simple landing page for what will eventually lead to aQuICK: Accessing Quantum Information and Computing Knowledgement, an Indian initiative for collating and distilling relevant information.
+This is a simple landing page for what will eventually lead to aQuICK: Accessing
+Quantum Information and Computing Knowledge, an Indian initiative for
+collating and distilling relevant information.
 
 ## Technology
 
