@@ -1,6 +1,6 @@
 {
-  "name": "hbtuMun18",
-  "description": "HBTU MUN 2018 Website",
+  "name": "aQuICK",
+  "description": "Landing page for aQuICK",
   "version": "1.0.0",
   "author": "Rohit Goswami [HaoZeke]",
   "dependencies": {
@@ -23,7 +23,7 @@
     "react-fontawesome": "^1.6.1",
     "react-vertical-timeline-component": "^2.0.5"
   },
-  "homepage": "https://hbtumun18.netlify.com",
+  "homepage": "https://aquick.netlify.com",
   "keywords": [
     "gatsby"
   ],
@@ -31,7 +31,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HaoZeke/hbtuMun18.git"
+    "url": "https://github.com/HaoZeke/aquick.git"
   },
   "scripts": {
     "dev": "gatsby develop",

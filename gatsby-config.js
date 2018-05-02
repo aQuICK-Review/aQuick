@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "HBTU MUN 2018",
+    title: "aQuICK",
     author: "Rohit Goswami [HaoZeke]",
-    description: "The second iteration of the well recieved Harcourt Butler Technical University Model United Nations. This version simulates the General Assembly First Committee.",
-    siteUrl: `https://hbtumun18.netlify.com`
+    description: "Landing page for aQuick: Accessing Quantum Information and Computing Knowledge",
+    siteUrl: `https://aquick.netlify.com`
   },
   pathPrefix: '/',
   plugins: [
