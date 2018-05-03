@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/haozeke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aquick.review
+  * I am haozeke (https://keybase.io/haozeke) on keybase.
+  * I have a public key with fingerprint 74B1 F67D 8E43 A94A 7554  0768 9CCC E364 02CB 49A6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208ed13a74c208e57451702e57550c266f31f877ea9d2786b13e00769e447447d00a",
+      "fingerprint": "74b1f67d8e43a94a755407689ccce36402cb49a6",
+      "host": "keybase.io",
+      "key_id": "9ccce36402cb49a6",
+      "kid": "0101947d2edecf341ec640852c7742ca75d68c479eb56f270b86dfd9621d39c2db840a",
+      "uid": "8ca27cf24cf6c9de4076b171e8004019",
+      "username": "haozeke"
+    },
+    "service": {
+      "hostname": "aquick.review",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1525385597,
+  "expire_in": 157680000,
+  "prev": "2e71d41ca11a706944bb385883dbc0a4db3a652ffd4ae0cc309f68f84065cad7",
+  "seqno": 51,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJ9TFZVGOdDcWCAEAl+xbzULCC9H+d+0STKD6AMTXnXIATvPfdcuAHv
+C+8XX4MZyGfEAA3I6aaRmuZYRMZI3EB9M1EYECJCzRihAg2DpGCy0blM/+vsbOc5
+z36/3/N7nj3XPV2dPJxP3B5TXG5Fn3W+1Vlvc4qfKs/PI2STkkOE5RGpaPlBaQqy
+WJNSNYUII0iKJgWkUIzEA6iHLA9YiidpHLAsCWmOUxlKFXgeSaJC8wInUwwiSZ4T
+EQA8vgpJSkQooWrGZGTOMGtGK5blgUypHK8ICDCSCCSsBTBHECGEiOEASUMZiBKH
+iSkmi87A5mTJgrZqJpzDn6Rle/+Df+6bpERcnEYKgioDKAQxSmBpyPOAhrigwgkQ
+8CKSWU6leVIWOEVVRI6mFEaEtCILYNm3bVlOgBLNQ5UGUOWgqCDdrEzxFBJIEuBK
+OtCCzEYpHWF0imTKRamIyA8lcNKuQaTPVW/kGUDKtGkwdasZ2TWUhbkZZpPVBE1p
+OtdqzQjTmdacDB2aheSkZyJJsmZU8BgxwY7MFs1kJMIojIRWTVelWJplBJYV+VAC
+ZWdoZpSk6QgWz5XERy+D7FiSRjylAApKFCXxJCcCIMuYKAiMIkNSAorMSBxLq6oC
+JERCyJCiygkqHgjHQknhCb2tTKOJCGMp7FNKxpoWLdkoWW1m3PTVzoQVTs4eTm4r
+XfT9cvJwX/N86+7/7r2UfGVvsnqst45ZPWK5NFjW981Y8HRYWxbYY4iZ9f3gI0ex
+V61c8XCh/tqOJ+FFb/Jmtaxqy8aAM7VTO93ic+yVBpRYCeQt60Ya7rtHdA8zpYPn
+tJAf2LHLNYt/lgCLLRqtT4jwSVxZbXuwLm/siqPu5+MtB5t6VuzyOrp3zbaFoFL/
+ijemYfntqJY+sXS0Ou4G4TZ/YZHpXBs7XO9fVh1+5iuX5tmhWOeXyoPmIv1W1162
+FZZ4e35JxkdOnFs7k2J4KnSe95/osffkNsaFsO2//Or748iTe+fr/O5Enlr6o/yz
+TXtiHHeWPK6X7z4dnGf/+O/gl0c+XGSbX5ks80pbEkJifoI7ivqfjvneLZi/0Gjx
+XJwf2Wle8uyuPjX5blT/3Q0+kwf6Mg+99s5TU6Ahb7Sgq+v13G2jja2dJ95uqjDM
+CjXRxhLy+/GTsRG9j0psJeqrLVV08vvbs//aF+DKO/qKrhomv7jZtd8/4dPDc9lg
+2Nix/8V/BqRVb1XOlXgHXiofLOSR44g6valw/KJfa0BvWtXXFz/f1T5RkaB9GzdU
+GnUsqC2w+EhzXceEO/vCZLp3+sx3N92LZ1u9anrrCsLzj34SM1W48XHreHfxwVW5
+Qnv440c3Epv8m33aht4b39zg2F0X9fDBofyB6Zn1GzpOX3Pdd29ATu8/efjAb9ur
+Fo7zZ10bBqf//Q9Q3cqh
+=GHBM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/haozeke
+
+==================================================================
