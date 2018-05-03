@@ -1,4 +1,3 @@
-import Countdown from 'react-count-down'
 import React, { Component, PropTypes } from 'react'
 
 import munIcon from '../images/icon.png'
@@ -6,13 +5,6 @@ import munIcon from '../images/icon.png'
 const cb = () => {
   console.log('expired callback')
 }
-
-const OPTIONS = { endDate: '13/04/2018 10:55 AM', prefix: ', sorry', cb}
-
-const EventCountdown = () => (
-  <Countdown options={OPTIONS} />
-)
-
 
 const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
@@ -22,7 +14,6 @@ const Header = (props) => (
         <div className="content">
             <div className="inner">
                 <h1>aQuICK</h1>
-                <h3> <EventCountdown /> </h3>
                 <p>The <a href="https://hbtumun17.netlify.com">second iteration</a> of the <a href="http://hbtu.ac.in/">Harcourt Butler Technical University</a> Model United Nations. Held in tandem with <a href="https://confluencehbti2k18.wixsite.com/hbtu">Confluence</a>.</p>
             </div>
         </div>
