@@ -19,18 +19,7 @@ class Main extends React.Component {
     return (
       <div id="main" style={this.props.timeout ? {display: 'flex'} : {display: 'none'}}>
 
-        <article id="articles" className={`${this.props.article === 'articles' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          <h2 className="major">Articles</h2>
-          <span className="image main"><img src={future} alt="Placeholder Image" /></span>
-          <h3>Coming Soon</h3>
-          <h4>Scope</h4>
-          <p> The articles are to be mainly educational in nature, expositions and cross posts to <a href="https://arxiv.org/">arxiv</a> (to be automated on request) are encouraged.</p>
-          <h4>Quality</h4>
-          <p>  Peer review and continous improvement as well as verifiable data will be mandatory. Older articles are to be archived if not mantained. </p>
-          {close}
-        </article>
-
-        <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
+          <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">aQuICK Open Invitation</h2>
           <p>
               On the last day of our conglomeration together at <a href="https://www.iiserb.ac.in/">IISER Bhopal</a>, we three old-timers: <a href="http://www.hri.res.in/~akpati/">Arun Pati</a>, <a href="http://www.iiserkol.ac.in/people/faculty/dps/pprasanta">Prasanth Panigrahi</a> & myself <a href="http://home.iitk.ac.in/~dgoswami/">(Debu Goswami)</a>, while reflecting our take on the journey of Quantum Information & Computing in India over the past couple of decades, thought that it is about time that we must form a coherent body (irrespective of  funding issues) that would enable and guide forward the efforts of quantum education. We note the efforts in terms of <a href="http://nptel.ac.in/">NPTEL Lectures</a> and global forums for exchanging ideas on the Interactions and involvements in Virtual Space for Quantum Information & Computing but feel the need for a more decentralized democratic approach to quality education and musings.
@@ -49,6 +38,20 @@ class Main extends React.Component {
           </p>
           {close}
         </article>
+
+
+        <article id="articles" className={`${this.props.article === 'articles' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
+        <h2 className="major">Articles</h2>
+        <span className="image main"><img src={future} alt="Placeholder Image" /></span>
+        <h3>Coming Soon</h3>
+        <h4>Scope</h4>
+        <p> The articles are to be mainly educational in nature, expositions and cross posts to <a href="https://arxiv.org/">arxiv</a> (to be automated on request) are encouraged.</p>
+        <h4>Quality</h4>
+        <p>  Peer review and continous improvement as well as verifiable data will be mandatory. Older articles are to be archived if not mantained. </p>
+        {close}
+        </article>
+
+
 
         <article id="sc" className={`${this.props.article === 'sc' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Steering Committee</h2>
