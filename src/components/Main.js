@@ -99,7 +99,6 @@ class Main extends React.Component {
                 <h4>HRI Allahabad</h4>
                 <p>
                     <a className="blank" href="http://www.hri.res.in/~akpati/"><FontAwesome name='globe' size='2x'/></a>
-               &nbsp;&nbsp;
         </p>
             </div>
         </div>
