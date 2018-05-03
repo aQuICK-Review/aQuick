@@ -1,6 +1,6 @@
 [build]
-  publish = "public"
+  publish = "public/"
   command = "yarn && yarn gatsby build"
 [build.environment]
   YARN_VERSION = "1.6.0"
-YARN_FLAGS = "--no-ignore-optional"
+  YARN_FLAGS = "--no-ignore-optional"
