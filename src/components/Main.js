@@ -28,14 +28,13 @@ class Main extends React.Component {
               With these in mind, we thought of creating a web-based group aQuICK: Accessing Quantum Information & Computing Knowledgebase.
           </p>
           <p>
-              This effort is envisaged to ensure the following:
+              This effort is envisaged to ensure the following:</p>
               <ul>
                   <li>First class open source web support for articles</li>
                   <li>Transparent and open avenues of discussion</li>
                   <li>Cross medium article generation (web, pdf, data etc)</li>
                   <li>Resource listings</li>
               </ul>
-          </p>
           {close}
         </article>
 
