@@ -3,7 +3,7 @@ module.exports = {
     title: "aQuICK",
     author: "Rohit Goswami [HaoZeke]",
     description: "Landing page for aQuick: Accessing Quantum Information and Computing Knowledge",
-    siteUrl: `https://aquick.netlify.com`
+    siteUrl: `https://aquick.review`
   },
   pathPrefix: '/',
   plugins: [
