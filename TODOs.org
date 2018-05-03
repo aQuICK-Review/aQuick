@@ -1,3 +1,6 @@
 
 * TODO [#A] Add back static assets for indexing 
 
+* TODO Switch to DNS based text record verification instead of static folder uploads 
+** Might be safer?
+
