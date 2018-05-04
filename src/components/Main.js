@@ -20,7 +20,7 @@ class Main extends React.Component {
       <div id="main" style={this.props.timeout ? {display: 'flex'} : {display: 'none'}}>
 
           <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          <h2 className="major">aQuICK Open Invitation</h2>
+          <h2 className="major">Open Invitation</h2>
           <p>
               On the last day of our conglomeration together at <a href="https://www.iiserb.ac.in/">IISER Bhopal</a>, we three old-timers: <a href="http://www.hri.res.in/~akpati/">Arun Pati</a>, <a href="http://www.iiserkol.ac.in/people/faculty/dps/pprasanta">Prasanth Panigrahi</a> & myself <a href="http://home.iitk.ac.in/~dgoswami/">(Debu Goswami)</a>, while reflecting our take on the journey of Quantum Information & Computing in India over the past couple of decades, thought that it is about time that we must form a coherent body (irrespective of  funding issues) that would enable and guide forward the efforts of quantum education. We note the efforts in terms of <a href="http://nptel.ac.in/">NPTEL Lectures</a> and global forums for exchanging ideas on the Interactions and involvements in Virtual Space for Quantum Information & Computing but feel the need for a more decentralized democratic approach to quality education and musings.
           </p>
