@@ -176,7 +176,7 @@ class Main extends React.Component {
             </ul>
           </form>
           <ul className="icons">
-              <li><a href=https://trello.com/invite/b/PCrPL8ot/5bd101f117432e1a5013d6e43b62da1a/community"" className="icon fa-trello"><span className="label">Trello</span></a></li>
+              <li><a href="https://trello.com/invite/b/PCrPL8ot/5bd101f117432e1a5013d6e43b62da1a/community" className="icon fa-trello"><span className="label">Trello</span></a></li>
           </ul>
           {close}
         </article>
