@@ -117,7 +117,7 @@ class Main extends React.Component {
               className="vertical-timeline-element--work"
               iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
             >
-                <h2 className="vertical-timeline-element-title"><a href="https://trello.com/invite/b/PCrPL8ot/08fadc1fe51eb9c14e3682e020954032/community">Trello<FontAwesome name='trello'/></a></h2>
+                <h2 className="vertical-timeline-element-title"><a href="https://trello.com/invite/b/PCrPL8ot/5bd101f117432e1a5013d6e43b62da1a/community">Trello<FontAwesome name='trello'/></a></h2>
               <h4 className="vertical-timeline-element-subtitle">Step I</h4>
               <p>
                   Click on the heading (Trello), and join the Community board. You may sign in using Google for alacrity.
@@ -176,7 +176,7 @@ class Main extends React.Component {
             </ul>
           </form>
           <ul className="icons">
-              <li><a href="https://trello.com/invite/b/PCrPL8ot/08fadc1fe51eb9c14e3682e020954032/community" className="icon fa-trello"><span className="label">Trello</span></a></li>
+              <li><a href=https://trello.com/invite/b/PCrPL8ot/5bd101f117432e1a5013d6e43b62da1a/community"" className="icon fa-trello"><span className="label">Trello</span></a></li>
           </ul>
           {close}
         </article>
